@@ -9,7 +9,7 @@ margin: 14px auto;
 }
 
 h6, h1, p {
-    color: skyblue;
+    color: red;
 }
 
 h6, h1, p {
@@ -29,7 +29,7 @@ h1 {
 
 .p-2 {
     text-align: left;
-    font: 14px;
+    font: 20px;
     letter-spacing: 0;
     color: #FFFFFF;
     opacity: 1;
